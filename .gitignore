@@ -1,0 +1,43 @@
+#Logs
+Logs
+*.log
+npm-debug.log*
+
+#Runtime data
+pids
+*.pid
+*.seed
+
+#Directory for instrumented libs
+lib-cov
+
+#Coverage directory used by tools like istanbul
+coverage
+
+#nyc test coverage
+.nyc_output
+
+#Grunt 
+.grunt
+
+#node-waf config
+.lock-wscript
+
+#Compiled binary addons
+build/Release
+
+#Dependency directories
+node_modules
+jspm_packages
+
+#optional npm cache directory
+.npm
+
+#optional repl history
+.node_repl_history
+
+dist
+
+.vscode/
+
+package-lock.json
